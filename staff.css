@@ -1,0 +1,37 @@
+
+
+.heading{
+  text-align: center;
+  margin-top: 0;
+  font-family: cursive;
+
+}
+a:link, a:visited {
+  background-color:#05595B;
+  color: white;
+  padding: 10px 10px;
+
+
+}
+
+
+body{
+  background-color:#7EFAFF;
+  margin:30px;
+}
+.Home_page{
+  font-size: 20px;
+  color: black;
+}
+.table{
+ border-collapse: collapse;
+ font-family:cursive;
+ font-size: 20px;
+ margin-top: 40px;
+
+ border-style: groove;
+ border-color:black;
+ color: #630606;
+ height: 100%;
+ width:100%;
+}
